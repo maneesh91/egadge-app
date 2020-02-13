@@ -1,0 +1,39 @@
+#footer{
+    background-color: #455a64;
+    width: 100%;
+    height: 150px;
+    display: flex;
+}
+h3{
+    height: 30px;
+}
+#contact{
+    width: 200px; 
+    margin-left: 25%;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    text-align: center;
+}
+#contactName{
+    font-size: 20px;
+    font-weight: bold;
+}
+#socialLink{ 
+    display: flex;
+    justify-content:space-between; 
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.socialName{
+  font-size: 30px;
+ 
+}
+#copyright_div{
+    position: relative;
+    width: 300px;
+}
+#copywrite_text{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}

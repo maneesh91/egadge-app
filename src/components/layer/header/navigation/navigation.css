@@ -1,0 +1,20 @@
+#navigation_container{
+    width: 1200px;
+    margin:  0 auto;
+    background-color: #FFF;
+}
+#navigation{
+    border-bottom: 1px solid cadetblue;
+}
+#nav_div{
+    font-size: 20px;
+   
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+
+}
+.navItem{
+    margin-left: 5px;
+    margin-right: 5px;
+}

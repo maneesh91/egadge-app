@@ -1,0 +1,40 @@
+#landing_container{
+    width: 1200px;
+    margin: 0 auto;
+    min-height: 75vh;
+  background-color: #FFF;
+   
+}
+
+#predetail{
+    display: flex;
+}
+
+
+#productImage{
+    width: 400px;
+    height: 400px;
+}
+
+#product_rate{
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;;
+    display: flex;
+    flex-direction: row;
+}
+#price{
+    width: 25%;
+    font: 25px arial, sans-serif;
+    font-weight: 1000;
+    padding: 10px;
+}
+#buydiv{
+    width: 75%;
+    text-align: right;
+    padding: 10px;
+}
+.btn_buy{
+    height: 40px;
+    background-color:  rgb(199, 236, 65);
+    border-radius: 5px;
+}

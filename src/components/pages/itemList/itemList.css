@@ -1,0 +1,42 @@
+#item_container{
+    width: 1200px;
+    margin:  0 auto;
+    min-height: 75vh;
+    background-color: #FFF;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.item_div{
+    border: 1px solid black;
+    width: 250px;
+    height: 300px;
+    margin: 20px
+}
+.product_image{
+    width: 100%;
+    position: relative;
+}
+.product_body{
+    text-align: center;
+    margin: 0px;
+}
+
+.Quick_view{
+   width: 60px;
+   height: 30px;
+   margin: 5px;
+}
+.buy_now{
+    width: 100px;
+    height: 30px;
+    margin: 5px;
+}
+
+.product_name {
+    margin: 0px;
+}
+.product_price{
+    margin: 0px;
+}
