@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/maneesh91/egadge-app.git/static/css/main.c2c3fd68.chunk.css",
-    "main.js": "/maneesh91/egadge-app.git/static/js/main.ffc9a74c.chunk.js",
-    "main.js.map": "/maneesh91/egadge-app.git/static/js/main.ffc9a74c.chunk.js.map",
-    "runtime-main.js": "/maneesh91/egadge-app.git/static/js/runtime-main.a902973b.js",
-    "runtime-main.js.map": "/maneesh91/egadge-app.git/static/js/runtime-main.a902973b.js.map",
-    "static/js/2.8dd96802.chunk.js": "/maneesh91/egadge-app.git/static/js/2.8dd96802.chunk.js",
-    "static/js/2.8dd96802.chunk.js.map": "/maneesh91/egadge-app.git/static/js/2.8dd96802.chunk.js.map",
-    "index.html": "/maneesh91/egadge-app.git/index.html",
-    "precache-manifest.5ed2640ae96f20e4b71cc4fa16287dc3.js": "/maneesh91/egadge-app.git/precache-manifest.5ed2640ae96f20e4b71cc4fa16287dc3.js",
-    "service-worker.js": "/maneesh91/egadge-app.git/service-worker.js",
-    "static/css/main.c2c3fd68.chunk.css.map": "/maneesh91/egadge-app.git/static/css/main.c2c3fd68.chunk.css.map",
-    "static/media/oneplus7T.jpg": "/maneesh91/egadge-app.git/static/media/oneplus7T.f2976126.jpg"
+    "main.css": "/egadge-app/static/css/main.c2c3fd68.chunk.css",
+    "main.js": "/egadge-app/static/js/main.1ac64216.chunk.js",
+    "main.js.map": "/egadge-app/static/js/main.1ac64216.chunk.js.map",
+    "runtime-main.js": "/egadge-app/static/js/runtime-main.80c4ac52.js",
+    "runtime-main.js.map": "/egadge-app/static/js/runtime-main.80c4ac52.js.map",
+    "static/js/2.8dd96802.chunk.js": "/egadge-app/static/js/2.8dd96802.chunk.js",
+    "static/js/2.8dd96802.chunk.js.map": "/egadge-app/static/js/2.8dd96802.chunk.js.map",
+    "index.html": "/egadge-app/index.html",
+    "precache-manifest.fa9c62f955e4aaf350cc11b7b5f9e5a2.js": "/egadge-app/precache-manifest.fa9c62f955e4aaf350cc11b7b5f9e5a2.js",
+    "service-worker.js": "/egadge-app/service-worker.js",
+    "static/css/main.c2c3fd68.chunk.css.map": "/egadge-app/static/css/main.c2c3fd68.chunk.css.map",
+    "static/media/oneplus7T.jpg": "/egadge-app/static/media/oneplus7T.f2976126.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a902973b.js",
+    "static/js/runtime-main.80c4ac52.js",
     "static/js/2.8dd96802.chunk.js",
     "static/css/main.c2c3fd68.chunk.css",
-    "static/js/main.ffc9a74c.chunk.js"
+    "static/js/main.1ac64216.chunk.js"
   ]
 }
